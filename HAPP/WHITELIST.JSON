@@ -1,5 +1,5 @@
 {
-  "Name": "RoscomVPN Whitelist",
+  "Name": "dumpling_VPN Whitelist",
   "GlobalProxy": "true",
   "UseChunkFiles": "true",
   "RemoteDns": "8.8.8.8",
